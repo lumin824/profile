@@ -20,7 +20,7 @@
 
 ## 江苏华大网安科技有限公司 （ 2016年3月 ~ 至今 ）
 
-### 空气颗粒检测平台 [Github](https://github.com/greatsec/ReactNativeApp)
+### [空气颗粒检测平台](https://github.com/greatsec/ReactNativeApp)
 硬件设备使用传感器将采集的数据发送到后台服务器，通过App对可对设备进行绑定、查看、分享等操作。
 
 我在此项目中负责负责和客户需求沟通，完成IOS和Android版本的App开发。
